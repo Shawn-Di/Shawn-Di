@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Shawn-Di
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning this tool
-- 📫 How to reach me shawnds@qq.com
+- 📫 How to reach me aka.shawnd@gmail.com
 
 <!---
 AirPfufu/AirPfufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
